@@ -10,6 +10,7 @@
 
 2. 删除Amazon的链接
 	sudo apt-get remove unity-webapps-common
+    sudo apt-get remove unity-lens-shopping
 
 
 3. 删掉基本不用的自带软件（用的时候再装也来得及）
@@ -78,6 +79,8 @@
 	sudo apt-get update
 	sudo apt-get install wiznote
 
+12. 安装adobe-flash播放器
+    sudo apt-get install flashplugin-installer
 
 
 
