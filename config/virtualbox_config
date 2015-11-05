@@ -88,3 +88,8 @@ VirtualBox直接使用物理硬盘(linux,windows XP)
 http://www.dabu.info/virtualbox_direct_physical_hard_disk_linux_windows_xp.html
 调整 VirtualBox 虚拟机的磁盘大小
 http://cnzhx.net/blog/resizing-lvm-centos-virtualbox-guest/
+
+ubuntu中管理用户和用户组
+http://www.cnblogs.com/vincedotnet/p/4017574.html
+每日Ubuntu小技巧——添加用户到已存在的组 
+https://linux.cn/article-2153-1.html
