@@ -69,8 +69,13 @@
     & git revert          //反转撤销提交
 
 
+##Git之忽略文件
 
-
+    改动过.gitignore文件之后，在repo的根目录下运行：
+    git rm -r --cached .
+    git add .
+    之后可以进行提交：
+    git commit -m "fixed untracked files"
 
 
 
