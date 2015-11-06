@@ -28,6 +28,12 @@
 ####更新系统
 	sudo apt-get update&&sudo apt-get upgrade
 
+####Numix 主题
+    sudo add-apt-repository ppa:numix/ppa
+    sudo apt-get update
+    sudo apt-get install numix-gtk-theme numix-icon-theme numix-icon-theme-circle numix-wallpaper-saucy
+    sudo apt-get install numix-gtk-theme
+
 ####安装软件
 1. 安装Vim
 
@@ -82,16 +88,33 @@
 12. 安装adobe-flash播放器
     sudo apt-get install flashplugin-installer
 
+13. 安装新立得软件包管理器
+    sudo apt-get install synaptic
+
+####c++ 开发环境
+1. 安装源码编译环境
+	
+	sudo apt-get install build-essential
+    
+2. 安装C/C++帮助文档
+	
+	sudo apt-get install manpages-dev                         #C API
+    sudo apt-get install manpages-posix                       #posix function
+    sudo apt-get install manpages-posix-dev                   #posix develop documents
+    sudo apt-get install libstdc++6-4.3-doc                   #C++ API
+
+3. gedit插件 gedit虽然不作开发用，但是有时候要看下代码
+
+    sudo apt-get install gedit-plugins
+    sudo apt-get install gedit-dev
+    sudo apt-get install gedit-developer-plugins
+    sudo apt-get install gedit-source-code-browser-plugin
 
 
 
-
-
-
-
-
-
-
+如果在VMware虚拟机中需要安装vmware-tools
+sudo apt-get install open-vm-toolbox
+sudo apt-get install kubuntu-desktop
 
 
 
