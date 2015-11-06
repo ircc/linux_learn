@@ -91,6 +91,9 @@
 13. 安装新立得软件包管理器
     sudo apt-get install synaptic
 
+14. 右键终端
+    sudo apt-get install nautilus-open-terminal
+    
 ####c++ 开发环境
 1. 安装源码编译环境
 	
