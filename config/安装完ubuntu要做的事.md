@@ -93,7 +93,9 @@
 
 14. 右键终端
     sudo apt-get install nautilus-open-terminal
-    
+
+15. 字体管理器
+    sudo apt-get install font-manager
 ####c++ 开发环境
 1. 安装源码编译环境
 	
