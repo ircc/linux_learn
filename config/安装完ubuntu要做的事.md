@@ -96,6 +96,14 @@
 
 15. 字体管理器
     sudo apt-get install font-manager
+
+16. 文件搜索工具
+    sudo apt-get install catfish
+    
+17. chm阅读器
+    sudo apt-get install xchm
+    chmsee：http://kr.archive.ubuntu.com/ubuntu/pool/universe/c/chmsee/chmsee_1.3.0-2ubuntu2_amd64.deb
+    
 ####c++ 开发环境
 1. 安装源码编译环境
 	
